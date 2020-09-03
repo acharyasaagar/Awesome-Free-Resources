@@ -32,3 +32,7 @@
 - [Pexels](https://pexels.com/)
 - [Pixabay](https://pixabay.com)
 - [Unsplash](https://unsplash.com/)
+
+## Patterns
+
+- [Paaatterns by ls](https://products.ls.graphics/paaatterns/)
