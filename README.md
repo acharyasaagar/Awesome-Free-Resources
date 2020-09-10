@@ -4,6 +4,8 @@
 - [undraw.co](https://undraw.co/)
 - [stubborn.fun](https://stubborn.fun/)
 - [icons8](https://icons8.com/illustrations)
+- [Open Peeps](https://openpeeps.com/)
+- [Open Doodles](https://www.opendoodles.com/)
 
 ## Icons
 
@@ -36,3 +38,7 @@
 ## Patterns
 
 - [Paaatterns by ls](https://products.ls.graphics/paaatterns/)
+
+## Wireframes and Mockups
+
+-[UI Print](https://uiprint.co/)
