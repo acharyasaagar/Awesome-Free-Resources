@@ -16,6 +16,7 @@
 - [entypo](http://www.entypo.com/)
 - [tabler icons](https://tablericons.com/)
 - [icons8](https://icons8.com/icons)
+- [Tabler Icons](https://tablericons.com/)
 
 ## Color
 
