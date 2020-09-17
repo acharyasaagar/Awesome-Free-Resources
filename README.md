@@ -29,6 +29,7 @@
 - [google fonts](https://fonts.google.com/)
 - [golden ratio typography calculator](https://grtcalculator.com/)
 - [fontjoy](https://fontjoy.com/)
+- [type-scale](https://type-scale.com/)
 
 ## Images
 
