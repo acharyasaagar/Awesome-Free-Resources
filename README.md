@@ -47,4 +47,4 @@
 
 ## Cheat Sheets
 
-- [BEM Naming Cheat Sheet] (https://9elements.com/bem-cheat-sheet/)
+- [BEM Naming Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
