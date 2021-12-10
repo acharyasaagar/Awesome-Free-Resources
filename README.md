@@ -30,7 +30,7 @@
 - [golden ratio typography calculator](https://grtcalculator.com/)
 - [fontjoy](https://fontjoy.com/)
 - [type-scale](https://type-scale.com/)
-- [font share](https://fontshare.com/)
+- [font share](https://www.fontshare.com)
 
 ## Images
 
