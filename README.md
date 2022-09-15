@@ -1,6 +1,6 @@
 ## Illustrations
 
-- [illustracions.co](https://illlustrations.co/)
+- [illustrations.co](https://illlustrations.co/)
 - [undraw.co](https://undraw.co/)
 - [stubborn.fun](https://stubborn.fun/)
 - [icons8](https://icons8.com/illustrations)
