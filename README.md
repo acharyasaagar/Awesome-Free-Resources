@@ -25,6 +25,7 @@
 - [color calculator](https://www.sessions.edu/)
 - [accessible color matrix](https://toolness.github.io/accessible-color-matrix/)
 - [random a11y color](https://randoma11y.com/)
+- [nord color generator](https://nordhealth.design/color-generator/)
 
 ## Typography and fonts
 
