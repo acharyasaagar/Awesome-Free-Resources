@@ -52,3 +52,6 @@
 ## Cheat Sheets
 
 - [BEM Naming Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
+
+## Animations
+- [use animations](https://useanimations.com/#explore)
