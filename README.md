@@ -55,3 +55,6 @@
 
 ## Animations
 - [use animations](https://useanimations.com/#explore)
+
+## Others
+- [figma freebies](https://www.uxcrush.com/)
