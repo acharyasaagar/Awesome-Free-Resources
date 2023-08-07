@@ -6,6 +6,7 @@
 - [icons8](https://icons8.com/illustrations)
 - [Open Peeps](https://openpeeps.com/)
 - [Open Doodles](https://www.opendoodles.com/)
+- [Streamline HQ](https://www.streamlinehq.com/)
 
 ## Icons
 
