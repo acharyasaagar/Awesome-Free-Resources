@@ -17,6 +17,7 @@
 - [tabler icons](https://tablericons.com/)
 - [icons8](https://icons8.com/icons)
 - [Tabler Icons](https://tablericons.com/)
+- [Iconoir](https://iconoir.com/)
 
 ## Color
 
@@ -26,6 +27,7 @@
 - [accessible color matrix](https://toolness.github.io/accessible-color-matrix/)
 - [random a11y color](https://randoma11y.com/)
 - [nord color generator](https://nordhealth.design/color-generator/)
+- [Open source color system](https://www.opensourcecolorsystem.design/)
 
 ## Typography and fonts
 
