@@ -62,3 +62,4 @@
 ## Others
 - [figma freebies](https://www.uxcrush.com/)
 - [Drawing tool](https://excalidraw.com/)
+- [Laws of UX](https://lawsofux.com/)
