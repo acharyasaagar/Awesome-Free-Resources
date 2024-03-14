@@ -19,6 +19,7 @@
 - [icons8](https://icons8.com/icons)
 - [Tabler Icons](https://tablericons.com/)
 - [Iconoir](https://iconoir.com/)
+- [Flag icons](https://github.com/lipis/flag-icons)
 
 ## Color
 
